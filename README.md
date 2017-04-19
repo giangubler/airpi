@@ -12,18 +12,22 @@ This folder includes all the files neede for the webinterface to work. The files
 
 Files needed for mysql connection:
 - connection.php
+
 Files needed for user interaction:
 - login.php
 - logout.php
 - register.php
+
 Files needed for the newest data:
 - phptempmain.php
 - phphummain.php
 - phppressmain.php
+
 Files needed for charts to work:
 - phpcharttemp.php
 - phpcharthum.php
 - phpchartpress.php
+
 Files needed for interface:
 - temperaturen.php
 - luftfeuchtigkeiten.php
