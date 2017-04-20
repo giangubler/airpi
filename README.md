@@ -10,8 +10,17 @@ Different files are included in different folders.
 ## requirements
 The things you need to install are the following:
 - apache2
+```bash
+sudo apt-get install apache2
+```
 - php5
+```bash
+sudo apt-get install php5
+```
 - mysql-server
+```bash
+sudo apt-get install mysql-server
+```
 
 ## html
 This folder includes all the files needed for the webinterface to work. The files range from background to front php files.
