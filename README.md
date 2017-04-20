@@ -7,7 +7,7 @@ The airpi is made up of a Raspberry Pi 3 and multiple sensors to get data about 
 
 Different files are included in different folders.
 
-# html
+## html
 This folder includes all the files needed for the webinterface to work. The files range from background to front php files.
 
 Files needed for mysql connection:
@@ -33,7 +33,7 @@ Files needed for interface:
 - luftfeuchtigkeiten.php
 - luftdruck.php
 
-# scripts
+## scripts
 This folder includes all the scripts needed for sensoring the data and inserting it into the mysql database. Those scripts are python and shell.
 
 Files needed for reading data from sensors:
